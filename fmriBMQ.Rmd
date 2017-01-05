@@ -61,6 +61,9 @@ knit        : slidify::knit2slides
 - Semantic similarity/distance 
 - fMRI-related idiomatic expression
 
+> (Jie Yang et al. 2016), Hemispheric involvement in the processing of Chinese idioms: An fMRI study. *Neuropsychologia* 87.
+
+
 ---
 ## Research Question
 
@@ -206,8 +209,8 @@ qie_grp = qierate %>%
 ---
 ## Discussion
 
--
-- 
+
+ 
 
 
 
@@ -217,7 +220,13 @@ qie_grp = qierate %>%
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k61nJkx5aDQ" frameborder="0" allowfullscreen></iframe>
 
+
 ---
 ## Reference
 
 [1] Huth AG, de Heer WA, Griffiths TL, Theunissen FE, & Gallant JL (2016). Natural speech reveals the semantic maps that tile human cerebral cortex. Nature, 532 (7600), 453-8 PMID: 27121839
+
+[2] Hemispheric differences in processing the  literal interpretation of idioms: Converging evidence from behavioral and fMRI studies.
+
+[3] Ani Eloyan,  Shanshan Li,  John Muschelli,  Jim J. Pekar,  Stewart H. Mostofsky,  Brian S. Caffo. (2014). Analytic Programming with fMRI Data: A Quick-Start Guide for Statisticians Using R.
+
