@@ -58,7 +58,8 @@ knit        : slidify::knit2slides
 ---
 ## Review
 
-
+- Semantic similarity/distance 
+- fMRI-related idiomatic expression
 
 ---
 ## Research Question
